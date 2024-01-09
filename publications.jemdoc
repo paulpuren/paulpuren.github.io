@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+\* denotes equal contribution. Please see the latest update on my [https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en/ Google Scholar] page.
+
+== Preprints
+- *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
+    I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot.
+    ([https://arxiv.org/abs/2310.02619.pdf arXiv])
+
+- *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
+    P. Ren, N. B. Erichson, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney.
+    ([https://arxiv.org/abs/2306.14070.pdf arXiv])
+
+- *Physics-informed neural network for seismic wave inversion in layered semi-infinite domain*, \n
+    P. Ren, C. Rao, H. Sun, and Y Liu.
+    ([https://arxiv.org/abs/2305.05150.pdf arXiv])
+
+
+== Journal Publications
+- *An Unsupervised Machine Learning Approach for Ground Motion Clustering and Selection*, \n
+    R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun, \n
+    /Earthquake Engineering \& Structural Dynamics/, 2024. 
+    ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv])
+
+- *SeismicNet: Physics-informed Neural Networks for Seismic Wave Modeling in Semi-infinite Domain*, \n
+    P. Ren\*, C. Rao\*, H. Sun, and Y. Liu, \n
+    /Computer Physics Communications/, 2023. 
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv])
+
+- *PhySR: Physics-informed Deep Super-resolution for Spatiotemporal Data*, \n   
+    P. Ren, C. Rao, Y. Liu, Z. Ma, Q. Wang, J. X. Wang, and H. Sun, \n
+    /Journal of Computational Physics/, 2023.
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv])
+
+- *Encoding Physics to Learn Reaction–Diffusion Processes*, \n
+    C. Rao\*, P. Ren\*, Q. Wang, O. Buyukozturk, H. Sun, and Y. Liu, \n 
+    /Nature Machine Intelligence/, 2023.
+    ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv])
+
+- *Clustering and Selection of Hurricane Wind Records Using Autoencoder and k-Means Algorithm*, \n
+    X. Du, J. F. Hajjar, R. B. Bond, P. Ren, and H. Sun, \n
+    /Journal of Structural Engineering/, 2023. 
+    ([https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12110 DOI])
+
+- *Autoregressive Matrix Factorization for Imputation and Forecasting of Spatiotemporal Structural Monitoring Time Series*, \n
+    P. Zhang\*, P. Ren\*, Y. Liu, and H. Sun, \n
+    /Mechanical Systems and Signal Processing/, 2022.
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021010372 DOI])
+
+- *PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs*, \n
+    P. Ren, C. Rao, Y. Liu, J. X. Wang, and H. Sun, \n
+    /Computer Methods in Applied Mechanics and Engineering/, 2022. 
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0045782521006514 DOI]) ([https://arxiv.org/abs/2106.14103.pdf arXiv])
+
+- *Incremental Bayesian Matrix\/Tensor Learning for Structural Monitoring Data Imputation and Response Forecasting*, \n
+    P. Ren, X. Chen, L. Sun, and H. Sun, \n
+    /Mechanical Systems and Signal Processing/, 2022. ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021001291 DOI])
+
+- *Structural health monitoring of a high-speed railway bridge: five years review and lessons learned*, \n
+    Y. Ding, P. Ren, H. Zhao, and C. Miao, \n
+    /Smart Structures and Systems/, 2018.
+
+
+== Conference Proceedings
+
+- *Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning*, \n
+    C. Rao\*, P. Ren\*, Y. Liu, and H. Sun, \n
+    /International Conference on Learning Representations (ICLR)/, 2022.
+    ([https://arxiv.org/abs/2201.12354.pdf arXiv])

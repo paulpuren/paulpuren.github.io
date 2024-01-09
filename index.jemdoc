@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Pu Ren
+
+~~~
+{}{img_left}{pics/profile.jpg}{alt text}{250px}{240px}
+I am a Postdoc Fellow in [https://crd.lbl.gov/divisions/scidata/mla/ Machine Learning and Analytics Group] at [https://www.lbl.gov/ Lawrence Berkeley National Lab], where I am working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney]. I am also a visiting Postdoc at [https://www.icsi.berkeley.edu/icsi/ International Computer Science Institute (ICSI)], where I work closely with Dr. [https://www.benerichson.com/ Ben Erichson]. I received my Ph.D. at Northeastern University in July 2022, where I worked with Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [http://sites.nd.edu/jianxun-wang/ Jian-Xun Wang].
+
+
+I am broadly interested in AI methods for scientific problems. I am working on both the methodology and application sides of scientific machine learning. Specifically, I work on soft and hard-constrained machine learning, super-resolution, and generative modeling. I apply these methods to many scientific domains, e.g., fluid dynamics, climate science, seismology, and earthquake engineering.  
+
+Email: pren AT lbl DOT gov
+~~~
+
+== Recent News
+- \[12\/2023\] I presented our recent work on Deep Generative Models for Earthquake Ground Motion Simulation at /AGU23/. 
+- \[12\/2023\] Our work on ground‐motion spectra clustering and selection has been published on /Earthquake Engineering & Structural Dynamics/. ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv])
+- \[11\/2023\] Our work on physics-informed deep learning for seismic wave propagation has been published in the /Computer Physics Communications/. ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv])
+- \[10\/2023\] Our work on generative models for time series data is online now. ([https://arxiv.org/abs/2310.02619.pdf arXiv])
+- \[08\/2023\] Our work on physics-informed super-resolution for spatiotemporal data has been published in the /Journal of Computational Physics/. ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv])
+- \[06\/2023\] Our work *SuperBench* is online now. We build a super-resolution benchmark for scientific machine learning! ([https://arxiv.org/abs/2306.14070.pdf arXiv])
+- \[06\/2023\] Our work on encoding physics to learn reaction-diffusion processes has been accepted by */Nature Machine Intelligence/*. ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv])
+- \[04\/2023\] Our work on seismic inversion using PINNs is online now. ([https://arxiv.org/abs/2305.05150.pdf arXiv])
+
+
+== Selected Awards
+- \[05/2021\] Second Place of 2021 EMI Dynamics Committee Student Paper Competition \[[https://www.asce.org/communities/institutes-and-technical-groups/engineering-mechanics-institute/news/emi-2021-student-competition-winners Link]\]
+- \[05/2020\] Third Place of 2020 EMI SHM&C Committee Student Paper Competition \[[https://www.asce.org/-/media/asce-images-and-files/communities/institutes-and-technical-groups/engineering-mechanics/documents/2020-emi-annual-report.pdf Link]\]
+- \[09/2019\] Vilas Mujumdar Fellowship
+- \[10/2018\] China National Scholarship
+- \[04/2015\] Finalist of Mathematical Contest in Modeling (top 0.5\%)
