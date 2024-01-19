@@ -4,9 +4,6 @@
 \* denotes equal contribution. Please see the latest update on my [https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en/ Google Scholar] page.
 
 == Preprints
-- *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
-    I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot.
-    ([https://arxiv.org/abs/2310.02619.pdf arXiv])
 
 - *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
     P. Ren\*, N. B. Erichson\*, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney.
@@ -63,6 +60,11 @@
 
 
 == Conference Proceedings
+
+- *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
+    I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot, \n
+    /International Conference on Learning Representations (ICLR)/, 2024.
+    ([https://arxiv.org/abs/2310.02619.pdf arXiv])
 
 - *Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning*, \n
     C. Rao\*, P. Ren\*, Y. Liu, and H. Sun, \n

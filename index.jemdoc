@@ -12,10 +12,10 @@ Email: pren AT lbl DOT gov
 ~~~
 
 == Recent News
+- \[01\/2024\] Our work on generative models for time series data has been accepted by /ICLR 24/. ([https://arxiv.org/abs/2310.02619.pdf arXiv])
 - \[12\/2023\] I presented our recent work on Deep Generative Models for Earthquake Ground Motion Simulation at /AGU23/. 
 - \[12\/2023\] Our work on ground‐motion spectra clustering and selection has been published on /Earthquake Engineering & Structural Dynamics/. ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv])
 - \[11\/2023\] Our work on physics-informed deep learning for seismic wave propagation has been published in the /Computer Physics Communications/. ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv])
-- \[10\/2023\] Our work on generative models for time series data is online now. ([https://arxiv.org/abs/2310.02619.pdf arXiv])
 - \[08\/2023\] Our work on physics-informed super-resolution for spatiotemporal data has been published in the /Journal of Computational Physics/. ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv])
 - \[06\/2023\] Our work *SuperBench* is online now. We build a super-resolution benchmark for scientific machine learning! ([https://arxiv.org/abs/2306.14070.pdf arXiv])
 - \[06\/2023\] Our work on encoding physics to learn reaction-diffusion processes has been accepted by */Nature Machine Intelligence/*. ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv])
