@@ -11,21 +11,22 @@
 - \[03\/2020\] Bayesian Tensor Learning for Structural Monitoring Data Imputation and Response Forecasting, /Northeastern University/.
 
 == Conference Presentations
-
-- \[12\/2023\] Deep Generative Models for Earthquake Ground Motion Simulation, /AGU Annual Meeting/ 2023.
+- \[05\/2024\] CD-VAE-GMG: Conditional Dynamic Variational Autoencoder for Earthquake Ground Motion Generation, /Seismological Society of America 2024/.
+- \[02\/2024\] SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning, /The annual Berkeley Lab Computing Sciences’ Postdoc Symposium/.
+- \[12\/2023\] Deep Generative Models for Earthquake Ground Motion Simulation, /AGU Annual Meeting 2023/.
 - \[08\/2023\] Super-resolution for Scientific Data, /Monterey Data Conference/.
 - \[07\/2021\] PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs, /SIAM Annual Meeting 2021/.
 - \[05\/2021\] PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs, /The 2021 Engineering Mechanics Institute Conference/.
 - \[05\/2020\] Bayesian Tensor Learning for Structural Monitoring Data Imputation and Response Forecasting, /The 2020 Engineering Mechanics Institute Conference/.
-# - \[08\/2017\] Structural Health Monitoring of a High-speed Railway Bridge: Five Years Review and Lessons Learned, /The 2017 World Congress on Advances in Structural Engineering and Mechanics/.
+- \[08\/2017\] Structural Health Monitoring of a High-speed Railway Bridge: Five Years Review and Lessons Learned, /The 2017 World Congress on Advances in Structural Engineering and Mechanics/.
 
 
 == Services
 
 - Reviewers for Conferences
     -- IJCAI 2024
-    -- ICML 2023, 2024
-    -- NeurlPS 2023
+    -- ICML 2023-2024
+    -- NeurlPS 2023-2024
     -- ICLR 2023
 
 - Reviewers for Journals

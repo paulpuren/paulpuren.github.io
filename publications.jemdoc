@@ -5,13 +5,43 @@
 
 == Preprints
 
+- *WaveCastNet: An AI-enabled Wavefield Forecasting Framework for Earthquake Early Warning*, \n
+    D. Lyu, R. Nakata, P. Ren, M. W. Mahoney, A. Pitarka, N. Nakata, and N. B. Erichson.
+    ([https://arxiv.org/pdf/2405.20516.pdf arXiv])
+
+- *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
+    J. Li, P. Ren, Y. Liu, and H. Sun.
+    ([https://arxiv.org/abs/2403.15245.pdf arXiv])
+
+- *Physics-Informed Machine Learning for Seismic Response Prediction of Nonlinear Steel Moment Resisting Frame Structures*, \n
+    R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun.
+    ([https://arxiv.org/abs/2402.17992.pdf arXiv])
+
 - *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
     P. Ren\*, N. B. Erichson\*, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney.
     ([https://arxiv.org/abs/2306.14070.pdf arXiv])
 
-- *Physics-informed neural network for seismic wave inversion in layered semi-infinite domain*, \n
-    P. Ren\*, C. Rao\*, H. Sun, and Y Liu.
+- *Physics-informed Neural Network for Seismic Wave Inversion in Layered Semi-infinite Domain*, \n
+    P. Ren\*, C. Rao\*, H. Sun, and Y. Liu.
     ([https://arxiv.org/abs/2305.05150.pdf arXiv])
+
+
+== Conference Proceedings
+
+- *Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning*, \n
+    W. Chen, J. Song, P. Ren, S. Subramanian, D. Morozov, and M. W. Mahoney, \n
+    /ICLR Workshop on AI4Differential Equations In Science/, 2024.
+    ([https://arxiv.org/abs/2402.15734.pdf arXiv])
+
+- *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
+    I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot, \n
+    /International Conference on Learning Representations (ICLR)/, 2024.
+    ([https://arxiv.org/abs/2310.02619.pdf arXiv])
+
+- *Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning*, \n
+    C. Rao\*, P. Ren\*, Y. Liu, and H. Sun, \n
+    /International Conference on Learning Representations (ICLR)/, 2022.
+    ([https://arxiv.org/abs/2201.12354.pdf arXiv])
 
 
 == Journal Publications
@@ -59,14 +89,4 @@
     /Smart Structures and Systems/, 2018.
 
 
-== Conference Proceedings
 
-- *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
-    I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot, \n
-    /International Conference on Learning Representations (ICLR)/, 2024.
-    ([https://arxiv.org/abs/2310.02619.pdf arXiv])
-
-- *Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning*, \n
-    C. Rao\*, P. Ren\*, Y. Liu, and H. Sun, \n
-    /International Conference on Learning Representations (ICLR)/, 2022.
-    ([https://arxiv.org/abs/2201.12354.pdf arXiv])
