@@ -6,7 +6,7 @@
 I am a Postdoc Fellow in [https://crd.lbl.gov/divisions/scidata/mla/ Machine Learning and Analytics Group] at [https://www.lbl.gov/ Lawrence Berkeley National Lab], where I am working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney]. I am also a visiting Postdoc at [https://www.icsi.berkeley.edu/icsi/ International Computer Science Institute (ICSI)], where I work closely with Dr. [https://www.benerichson.com/ Ben Erichson]. I received my Ph.D. at Northeastern University in July 2022, where I worked with Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [http://sites.nd.edu/jianxun-wang/ Jian-Xun Wang].
 
 
-I am broadly interested in AI methods for scientific problems. I am working on both the methodology and application sides of scientific machine learning. Specifically, I work on soft and hard-constrained machine learning, super-resolution, and generative modeling. I apply these methods to many scientific domains, e.g., fluid dynamics, climate science, seismology, and earthquake engineering.  
+I am broadly interested in AI methods for scientific problems. I am working on both the methodology and application sides of scientific machine learning. Specifically, I work on soft and hard-constrained machine learning, super-resolution, and generative modeling. I apply these methods to many scientific domains, e.g., fluid dynamics, climate science, geophysics, and earthquake engineering.  
 
 Email: pren AT lbl DOT gov
 ~~~
@@ -15,9 +15,9 @@ Email: pren AT lbl DOT gov
 - \[06\/2024\] WaveCastNet is online now. We proposed an AI-enabled wavefield forecasting framework for earthquake early warning. ([https://arxiv.org/pdf/2405.20516.pdf arXiv])
 - \[05\/2024\] I presented our recent work on conditional VAE models for ground motion modeling at /Seismological Society of America 2024/.
 - \[05\/2024\] Our work on data-efficient pretraining and in-context learning for SciML has been accepted by /ICLR 2024 Workshop on AI4Differential Equations In
-Science/. ([https://arxiv.org/abs/2402.15734.pdf arXiv]).
+Science/. ([https://arxiv.org/abs/2402.15734.pdf arXiv])
 - \[04\/2024\] Bailey has put our PhD work online. We investigated the physics-informed ML for seismic response modeling. ([https://arxiv.org/abs/2402.17992.pdf arXiv])
-- \[01\/2024\] Our work on generative models for time series data has been accepted by /ICLR 2024/. ([https://arxiv.org/abs/2310.02619.pdf arXiv]).
+- \[01\/2024\] Our work on generative models for time series data has been accepted by /ICLR 2024/. ([https://arxiv.org/abs/2310.02619.pdf arXiv])
 - \[12\/2023\] I presented our recent work on Deep Generative Models for Earthquake Ground Motion Simulation at /AGU 2023/. 
 - \[12\/2023\] Our work on ground‐motion spectra clustering and selection has been published on /Earthquake Engineering & Structural Dynamics/. ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv])
 - \[11\/2023\] Our work on physics-informed deep learning for seismic wave propagation has been published in the /Computer Physics Communications/. ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv])
