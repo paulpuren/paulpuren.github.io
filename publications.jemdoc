@@ -5,6 +5,10 @@
 
 == Preprints
 
+- *Learning Physics for Unveiling Hidden Earthquake Ground Motions via Conditional Generative Modeling*, \n
+    P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney.
+    ([https://arxiv.org/abs/2407.15089.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+
 - *WaveCastNet: An AI-enabled Wavefield Forecasting Framework for Earthquake Early Warning*, \n
     D. Lyu, R. Nakata, P. Ren, M. W. Mahoney, A. Pitarka, N. Nakata, and N. B. Erichson.
     ([https://arxiv.org/pdf/2405.20516.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]

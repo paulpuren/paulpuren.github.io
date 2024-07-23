@@ -12,6 +12,8 @@ Email: pren AT lbl DOT gov
 ~~~
 
 == Recent News
+- \[07\/2024\] We are organizing a workshop at NeurIPS 2024 on Foundation Models for Science. We welcome submissions on scientific foundation models, AI for Science, and Scientific Machine Learning (SciML). See more details using this [https://fm-science.github.io/ Link].
+- \[07\/2024\] Our work on conditional generative modeling for earthquakes is online now. ([https://arxiv.org/abs/2407.15089.pdf arXiv])
 - \[06\/2024\] WaveCastNet is online now. We proposed an AI-enabled wavefield forecasting framework for earthquake early warning. ([https://arxiv.org/pdf/2405.20516.pdf arXiv])
 - \[05\/2024\] I presented our recent work on conditional VAE models for ground motion modeling at /Seismological Society of America 2024/.
 - \[05\/2024\] Our work on data-efficient pretraining and in-context learning for SciML has been accepted by /ICLR 2024 Workshop on AI4Differential Equations In
