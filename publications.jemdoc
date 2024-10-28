@@ -32,13 +32,18 @@
 
 == Conference Proceedings
 
+- *Model Balancing Helps Low-data Training and Fine-tuning*, \n
+    Z. Liu\*, Y. Hu\*, T. Pang, Y. Zhou, P. Ren, and Y. Yang, \n
+    /Empirical Methods in Natural Language Processing (EMNLP)/, Oral, 2024.
+    ([https://arxiv.org/pdf/2410.12178.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + NLP + PDEs</font>}}\]
+
 - *Physics-Guided Machine Learning for Structural Metamodeling and Fragility Analysis*, \n
     R. B. Bond, P. Ren, H. Sun, and J. F. Hajjar, \n
     /International Conference on the Behaviour of Steel Structures in Seismic Areas/, 2024.
     ([https://link.springer.com/chapter/10.1007/978-3-031-62884-9_75 DOI]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
 
 - *Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning*, \n
-    W. Chen, J. Song, P. Ren, S. Subramanian, D. Morozov, and M. W. Mahoney, \n
+    W. Chen\*, J. Song\*, P. Ren, S. Subramanian, D. Morozov, and M. W. Mahoney, \n
     /Neural Information Processing Systems (NeurIPS)/, 2024, \n
     /ICLR Workshop on AI4Differential Equations In Science/, 2024.
     ([https://arxiv.org/abs/2402.15734.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
