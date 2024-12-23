@@ -13,10 +13,6 @@
     D. Lyu, R. Nakata, P. Ren, M. W. Mahoney, A. Pitarka, N. Nakata, and N. B. Erichson.
     ([https://arxiv.org/pdf/2405.20516.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
 
-- *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
-    J. Li, P. Ren, Y. Liu, and H. Sun.
-    ([https://arxiv.org/abs/2403.15245.pdf arXiv]) \[{{<font color="PaleVioletRed">ML</font>}}\]
-
 - *Physics-Informed Machine Learning for Seismic Response Prediction of Nonlinear Steel Moment Resisting Frame Structures*, \n
     R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun.
     ([https://arxiv.org/abs/2402.17992.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
@@ -32,10 +28,15 @@
 
 == Conference Proceedings
 
+- *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
+    J. Li, P. Ren, Y. Liu, and H. Sun, \n
+    /The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2025
+    ([https://arxiv.org/abs/2403.15245.pdf arXiv]) \[{{<font color="PaleVioletRed">ML</font>}}\]
+
 - *Model Balancing Helps Low-data Training and Fine-tuning*, \n
     Z. Liu\*, Y. Hu\*, T. Pang, Y. Zhou, P. Ren, and Y. Yang, \n
     /Empirical Methods in Natural Language Processing (EMNLP)/, Oral, 2024.
-    ([https://arxiv.org/pdf/2410.12178.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + NLP + PDEs</font>}}\]
+    ([https://aclanthology.org/2024.emnlp-main.78.pdf DOI])([https://arxiv.org/pdf/2410.12178.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + NLP + PDEs</font>}}\]
 
 - *Physics-Guided Machine Learning for Structural Metamodeling and Fragility Analysis*, \n
     R. B. Bond, P. Ren, H. Sun, and J. F. Hajjar, \n
@@ -60,6 +61,18 @@
 
 
 == Journal Publications
+
+- *FT-SMNet: Fourier transform sparse matrix network for structural health monitoring time series data forecasting*, \n
+    W. Wang\*, P. Ren\*, Y. Liu, L. Meng, H. Liu, H. Liu, H. Sun, \n
+    /Mechanical Systems and Signal Processing/, 2025. 
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327024010951 DOI]) \[{{<font color="PaleVioletRed">ML + Time series</font>}}\]
+
+
+- *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
+    J. Song\*, Z. Song\*, P. Ren, N. B. Erichson, M. Mahoney, and X. S. Li, \n
+    /Machine Learning: Science and Technology/, 2024. 
+    ([https://iopscience.iop.org/article/10.1088/2632-2153/ad9883/pdf DOI]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+
 - *An Unsupervised Machine Learning Approach for Ground Motion Clustering and Selection*, \n
     R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun, \n
     /Earthquake Engineering \& Structural Dynamics/, 2024. 
