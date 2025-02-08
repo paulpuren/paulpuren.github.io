@@ -5,6 +5,10 @@
 
 == Preprints
 
+- *Advancing Data-driven Broadband Seismic Wavefield Simulation with Multi-conditional Diffusion Model*, \n
+    Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, M. W. Mahoney.
+    ([https://arxiv.org/abs/2501.14348.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+
 - *Learning Physics for Unveiling Hidden Earthquake Ground Motions via Conditional Generative Modeling*, \n
     P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney.
     ([https://arxiv.org/abs/2407.15089.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
@@ -17,10 +21,6 @@
     R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun.
     ([https://arxiv.org/abs/2402.17992.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
 
-- *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
-    P. Ren\*, N. B. Erichson\*, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney.
-    ([https://arxiv.org/abs/2306.14070.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs + Climate</font>}}\]
-
 - *Physics-informed Neural Network for Seismic Wave Inversion in Layered Semi-infinite Domain*, \n
     P. Ren\*, C. Rao\*, H. Sun, and Y. Liu.
     ([https://arxiv.org/abs/2305.05150.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
@@ -30,7 +30,7 @@
 
 - *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
     J. Li, P. Ren, Y. Liu, and H. Sun, \n
-    /The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2025
+    /The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2025.
     ([https://arxiv.org/abs/2403.15245.pdf arXiv]) \[{{<font color="PaleVioletRed">ML</font>}}\]
 
 - *Model Balancing Helps Low-data Training and Fine-tuning*, \n
@@ -62,11 +62,25 @@
 
 == Journal Publications
 
+- *Simulating seismic wavefields using generative artificial intelligence*, \n
+    R. Nakata, N. Nakata, P. Ren, Z. Bi, M. Lacour, N. B. Erichson, M. W. Mahoney, \n
+    /The Leading Edge/, 2025. 
+    ([https://library.seg.org/doi/10.1190/tle44020123.1 DOI]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+
+- *Data-driven modelling of fully nonlinear wave loads on offshore wind-turbine monopiles at prototype scale*, \n
+    W. Tan, P. Ren, D. Cao, H. Liang, H. Chen, \n
+    /Marine Structures/, 2025. 
+    ([https://www.sciencedirect.com/science/article/pii/S095183392400203X DOI]) \[{{<font color="PaleVioletRed">ML + Time series</font>}}\]
+
+- *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
+    P. Ren\*, N. B. Erichson\*, J. Guo, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney, \n
+    /Data-centric Machine Learning Research/, 2025.
+    ([https://arxiv.org/abs/2306.14070.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs + Climate</font>}}\]
+
 - *FT-SMNet: Fourier transform sparse matrix network for structural health monitoring time series data forecasting*, \n
     W. Wang\*, P. Ren\*, Y. Liu, L. Meng, H. Liu, H. Liu, H. Sun, \n
     /Mechanical Systems and Signal Processing/, 2025. 
     ([https://www.sciencedirect.com/science/article/abs/pii/S0888327024010951 DOI]) \[{{<font color="PaleVioletRed">ML + Time series</font>}}\]
-
 
 - *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
     J. Song\*, Z. Song\*, P. Ren, N. B. Erichson, M. Mahoney, and X. S. Li, \n
