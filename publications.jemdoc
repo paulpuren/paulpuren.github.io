@@ -62,6 +62,11 @@
 
 == Journal Publications
 
+- *Learning Spatiotemporal Dynamics from Sparse Data via a High-order Physics-encoded Network*, \n
+    P. Ren\*, J. Song\*, C. Rao\*, Q. Wang, Y. Guo, H. Sun, and Y. Liu, \n
+    /Computer Physics Communications/, 2025. 
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465525000852 DOI]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+
 - *Simulating seismic wavefields using generative artificial intelligence*, \n
     R. Nakata, N. Nakata, P. Ren, Z. Bi, M. Lacour, N. B. Erichson, M. W. Mahoney, \n
     /The Leading Edge/, 2025. 
