@@ -5,10 +5,6 @@
 
 == Preprints
 
-- *Advancing Data-driven Broadband Seismic Wavefield Simulation with Multi-conditional Diffusion Model*, \n
-    Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, M. W. Mahoney.
-    ([https://arxiv.org/abs/2501.14348.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
-
 - *Learning Physics for Unveiling Hidden Earthquake Ground Motions via Conditional Generative Modeling*, \n
     P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney.
     ([https://arxiv.org/abs/2407.15089.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
@@ -61,6 +57,12 @@
 
 
 == Journal Publications
+
+- *Advancing Data-driven Broadband Seismic Wavefield Simulation with Multi-conditional Diffusion Model*, \n
+    Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, M. W. Mahoney, \n
+    /IEEE Transactions on Geoscience and Remote Sensing/, 2025.
+    ([https://ieeexplore.ieee.org/document/11091332 DOI])
+    ([https://arxiv.org/abs/2501.14348.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
 
 - *Learning Spatiotemporal Dynamics from Sparse Data via a High-order Physics-encoded Network*, \n
     P. Ren\*, J. Song\*, C. Rao\*, Q. Wang, Y. Guo, H. Sun, and Y. Liu, \n
