@@ -3,10 +3,13 @@
 
 ~~~
 {}{img_left}{pics/headshot_recent.jpg}{alt text}{200px}{200px}
-I am a Postdoc Fellow in [https://crd.lbl.gov/divisions/scidata/mla/ Machine Learning and Analytics Group] at [https://www.lbl.gov/ Lawrence Berkeley National Lab], where I am working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney]. I received my Ph.D. at Northeastern University in July 2022, where I worked with Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [http://sites.nd.edu/jianxun-wang/ Jian-Xun Wang].
+I am a Postdoc Fellow in AI & Learning Systems Group at [https://www.lbl.gov/ Lawrence Berkeley National Lab], where I am working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney]. I received my Ph.D. at Northeastern University in July 2022, where I worked with Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [http://sites.nd.edu/jianxun-wang/ Jian-Xun Wang].
 
 
-I am broadly interested in AI methods for scientific problems. I am working on both the methodology and application sides of scientific machine learning. Specifically, I work on soft and hard-constrained machine learning, super-resolution, and generative modeling. I apply these methods to many scientific domains, e.g., fluid dynamics, climate science, geophysics, and earthquake engineering.  
+I am broadly interested in AI methods for scientific problems. I work on both the methodology and application sides of scientific machine learning. Specifically, my research focuses on soft- and hard-constrained machine learning, generative modeling, and large pretrained models, with applications spanning fluid dynamics, climate science, geophysics, earthquake engineering, etc.
+
+More recently, I have been exploring weight-space analysis and its role in scientific machine learning, particularly through loss landscape analyses of constrained models and eigen-spectral analyses of large pretrained models. My ongoing projects aim to establish theoretical and computational foundations that connect these analyses to the generalization and transferability of scientific foundation models.
+
 
 Email: pren AT lbl DOT gov
 ~~~
