@@ -6,15 +6,15 @@
 == Preprints
 
 - *Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra*, \n
-    M. Lacour, P. Ren, R. Nakata, N. Nakata, M. Mahoney.
+    M. Lacour, P. Ren, R. Nakata, N. Nakata, and M. Mahoney.
     ([https://arxiv.org/abs/2512.19909 arXiv])
 
 - *HPC-Driven Modeling with ML-Based Surrogates for Magnon-Photon Dynamics in Hybrid Quantum Systems*, \n
-    J. Song, Y. Tang, P. Ren, S. Takayoshi, S. Sawant, Y. Zhu, J. Hu, A. Nonaka, M. W. Mahoney, B. Erichson, Z. Yao.
+    J. Song, Y. Tang, P. Ren, S. Takayoshi, S. Sawant, Y. Zhu, J. Hu, A. Nonaka, M. W. Mahoney, B. Erichson, and Z. Yao.
     ([https://arxiv.org/pdf/2510.22221 arXiv])
 
 - *RELift: Learned Coarse-to-Fine Propagators for Time-Dependent PDEs with Applications to Electron Dynamics*, \n
-    H. Bassi, Y. Zhu, E. Ye, P. Ren, A. Dektor, M. W. Mahoney, H. S. Bhat, C. Yang.
+    H. Bassi, Y. Zhu, E. Ye, P. Ren, A. Dektor, M. W. Mahoney, H. S. Bhat, and C. Yang.
     ([https://arxiv.org/pdf/2509.12220 arXiv])
 
 - *Physics-Informed Machine Learning for Seismic Response Prediction of Nonlinear Steel Moment Resisting Frame Structures*, \n
@@ -27,6 +27,7 @@
 
 
 == Conference Proceedings
+
 
 - *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
     J. Li, P. Ren, Y. Liu, and H. Sun, \n
@@ -76,7 +77,7 @@
     ([https://arxiv.org/pdf/2405.20516.pdf arXiv]) 
 
 - *Advancing Data-driven Broadband Seismic Wavefield Simulation with Multi-conditional Diffusion Model*, \n
-    Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, M. W. Mahoney, \n
+    Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, and M. W. Mahoney, \n
     /IEEE Transactions on Geoscience and Remote Sensing/, 2025.
     ([https://ieeexplore.ieee.org/document/11091332 DOI])
     ([https://arxiv.org/abs/2501.14348.pdf arXiv]) 
@@ -87,12 +88,12 @@
     ([https://www.sciencedirect.com/science/article/abs/pii/S0010465525000852 DOI]) 
 
 - *Simulating seismic wavefields using generative artificial intelligence*, \n
-    R. Nakata, N. Nakata, P. Ren, Z. Bi, M. Lacour, N. B. Erichson, M. W. Mahoney, \n
+    R. Nakata, N. Nakata, P. Ren, Z. Bi, M. Lacour, N. B. Erichson, and M. W. Mahoney, \n
     /The Leading Edge/, 2025. 
     ([https://library.seg.org/doi/10.1190/tle44020123.1 DOI]) 
 
 - *Data-driven modelling of fully nonlinear wave loads on offshore wind-turbine monopiles at prototype scale*, \n
-    W. Tan, P. Ren, D. Cao, H. Liang, H. Chen, \n
+    W. Tan, P. Ren, D. Cao, H. Liang, and H. Chen, \n
     /Marine Structures/, 2025. 
     ([https://www.sciencedirect.com/science/article/pii/S095183392400203X DOI]) 
 
@@ -102,7 +103,7 @@
     ([https://arxiv.org/abs/2306.14070.pdf arXiv]) 
 
 - *FT-SMNet: Fourier transform sparse matrix network for structural health monitoring time series data forecasting*, \n
-    W. Wang\*, P. Ren\*, Y. Liu, L. Meng, H. Liu, H. Liu, H. Sun, \n
+    W. Wang\*, P. Ren\*, Y. Liu, L. Meng, H. Liu, H. Liu, and H. Sun, \n
     /Mechanical Systems and Signal Processing/, 2025. 
     ([https://www.sciencedirect.com/science/article/abs/pii/S0888327024010951 DOI]) 
 
