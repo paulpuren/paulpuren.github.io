@@ -15,9 +15,7 @@ Email: pren AT lbl DOT gov
 ~~~
 
 == Recent News
-- \[03\/2026\] Our CGM-GM is published online by Nature Communications. We are also building a broader CGM family for geophysical applications: 
-    - [https://arxiv.org/abs/2512.19909 CGM-FAS],
-    - [https://www.stat.berkeley.edu/~mmahoney/pubs/Advancing_Broadband_Seismic_Wavefield_1.pdf CGM-Wave],
+- \[03\/2026\] Our CGM-GM is published online by Nature Communications. We are also building a broader CGM family for geophysical applications: [https://arxiv.org/abs/2512.19909 CGM-FAS], [https://www.stat.berkeley.edu/~mmahoney/pubs/Advancing_Broadband_Seismic_Wavefield_1.pdf CGM-Wave].
 - \[09\/2025\] Our CGM work is featured at [https://central.scec.org/publication/14399 SCEC2025 Plenary Talk].
 - \[07\/2024\] We are organizing a workshop at NeurIPS 2024 on Foundation Models for Science. 
 - \[05\/2024\] Our work on data-efficient pretraining and in-context learning for SciML has been accepted by /NeurIPS 2024/. ([https://arxiv.org/abs/2402.15734.pdf arXiv])
