@@ -5,21 +5,25 @@
 
 == Preprints
 
-- *Learning Physics for Unveiling Hidden Earthquake Ground Motions via Conditional Generative Modeling*, \n
-    P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney.
-    ([https://arxiv.org/abs/2407.15089.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+- *Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra*, \n
+    M. Lacour, P. Ren, R. Nakata, N. Nakata, M. Mahoney.
+    ([https://arxiv.org/abs/2512.19909 arXiv])
 
-- *WaveCastNet: An AI-enabled Wavefield Forecasting Framework for Earthquake Early Warning*, \n
-    D. Lyu, R. Nakata, P. Ren, M. W. Mahoney, A. Pitarka, N. Nakata, and N. B. Erichson.
-    ([https://arxiv.org/pdf/2405.20516.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+- *HPC-Driven Modeling with ML-Based Surrogates for Magnon-Photon Dynamics in Hybrid Quantum Systems*, \n
+    J. Song, Y. Tang, P. Ren, S. Takayoshi, S. Sawant, Y. Zhu, J. Hu, A. Nonaka, M. W. Mahoney, B. Erichson, Z. Yao.
+    ([https://arxiv.org/pdf/2510.22221 arXiv])
+
+- *RELift: Learned Coarse-to-Fine Propagators for Time-Dependent PDEs with Applications to Electron Dynamics*, \n
+    H. Bassi, Y. Zhu, E. Ye, P. Ren, A. Dektor, M. W. Mahoney, H. S. Bhat, C. Yang.
+    ([https://arxiv.org/pdf/2509.12220 arXiv])
 
 - *Physics-Informed Machine Learning for Seismic Response Prediction of Nonlinear Steel Moment Resisting Frame Structures*, \n
     R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun.
-    ([https://arxiv.org/abs/2402.17992.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://arxiv.org/abs/2402.17992.pdf arXiv]) 
 
 - *Physics-informed Neural Network for Seismic Wave Inversion in Layered Semi-infinite Domain*, \n
     P. Ren\*, C. Rao\*, H. Sun, and Y. Liu.
-    ([https://arxiv.org/abs/2305.05150.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://arxiv.org/abs/2305.05150.pdf arXiv]) 
 
 
 == Conference Proceedings
@@ -27,115 +31,128 @@
 - *Reasoning-Enhanced Object-Centric Learning for Videos*, \n
     J. Li, P. Ren, Y. Liu, and H. Sun, \n
     /The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2025.
-    ([https://arxiv.org/abs/2403.15245.pdf arXiv]) \[{{<font color="PaleVioletRed">ML</font>}}\]
+    ([https://arxiv.org/abs/2403.15245.pdf arXiv]) 
 
 - *Model Balancing Helps Low-data Training and Fine-tuning*, \n
     Z. Liu\*, Y. Hu\*, T. Pang, Y. Zhou, P. Ren, and Y. Yang, \n
     /Empirical Methods in Natural Language Processing (EMNLP)/, Oral, 2024.
-    ([https://aclanthology.org/2024.emnlp-main.78.pdf DOI])([https://arxiv.org/pdf/2410.12178.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + NLP + PDEs</font>}}\]
+    ([https://aclanthology.org/2024.emnlp-main.78.pdf DOI])([https://arxiv.org/pdf/2410.12178.pdf arXiv]) 
 
 - *Physics-Guided Machine Learning for Structural Metamodeling and Fragility Analysis*, \n
     R. B. Bond, P. Ren, H. Sun, and J. F. Hajjar, \n
     /International Conference on the Behaviour of Steel Structures in Seismic Areas/, 2024.
-    ([https://link.springer.com/chapter/10.1007/978-3-031-62884-9_75 DOI]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://link.springer.com/chapter/10.1007/978-3-031-62884-9_75 DOI]) 
 
 - *Data-Efficient Operator Learning via Unsupervised Pretraining and In-Context Learning*, \n
     W. Chen\*, J. Song\*, P. Ren, S. Subramanian, D. Morozov, and M. W. Mahoney, \n
     /Neural Information Processing Systems (NeurIPS)/, 2024, \n
     /ICLR Workshop on AI4Differential Equations In Science/, 2024.
-    ([https://arxiv.org/abs/2402.15734.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://arxiv.org/abs/2402.15734.pdf arXiv]) 
 
 - *Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs*, \n
     I. Naiman, N. B. Erichson, P. Ren, M. W. Mahoney, and O. Azencot, \n
     /International Conference on Learning Representations (ICLR)/, 2024.
-    ([https://arxiv.org/abs/2310.02619.pdf arXiv]) \[{{<font color="PaleVioletRed">ML</font>}}\]
+    ([https://arxiv.org/abs/2310.02619.pdf arXiv]) 
 
 - *Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning*, \n
     C. Rao\*, P. Ren\*, Y. Liu, and H. Sun, \n
     /International Conference on Learning Representations (ICLR)/, 2022.
-    ([https://arxiv.org/abs/2201.12354.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://arxiv.org/abs/2201.12354.pdf arXiv]) 
 
 
 == Journal Publications
+
+- *Learning earthquake ground motions via conditional generative modeling*, \n
+    P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney, \n
+    /Nature Communications/, 2026.
+    ([https://www.nature.com/articles/s41467-026-70719-2 DOI])
+    ([https://arxiv.org/abs/2407.15089.pdf arXiv]) 
+    ([https://github.com/paulpuren/cgm-gm Code])
+
+- *Rapid wavefield forecasting for earthquake early warning via deep sequence to sequence learning*, \n
+    D. Lyu, R. Nakata, P. Ren, M. W. Mahoney, A. Pitarka, N. Nakata, and N. B. Erichson, \n
+    /Nature Communications/, 2025.
+    ([https://www.nature.com/articles/s41467-025-65435-2 DOI])
+    ([https://arxiv.org/pdf/2405.20516.pdf arXiv]) 
 
 - *Advancing Data-driven Broadband Seismic Wavefield Simulation with Multi-conditional Diffusion Model*, \n
     Z. Bi, N. Nakata, R. Nakata, P. Ren, X. Wu, M. W. Mahoney, \n
     /IEEE Transactions on Geoscience and Remote Sensing/, 2025.
     ([https://ieeexplore.ieee.org/document/11091332 DOI])
-    ([https://arxiv.org/abs/2501.14348.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://arxiv.org/abs/2501.14348.pdf arXiv]) 
 
 - *Learning Spatiotemporal Dynamics from Sparse Data via a High-order Physics-encoded Network*, \n
     P. Ren\*, J. Song\*, C. Rao\*, Q. Wang, Y. Guo, H. Sun, and Y. Liu, \n
     /Computer Physics Communications/, 2025. 
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465525000852 DOI]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465525000852 DOI]) 
 
 - *Simulating seismic wavefields using generative artificial intelligence*, \n
     R. Nakata, N. Nakata, P. Ren, Z. Bi, M. Lacour, N. B. Erichson, M. W. Mahoney, \n
     /The Leading Edge/, 2025. 
-    ([https://library.seg.org/doi/10.1190/tle44020123.1 DOI]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://library.seg.org/doi/10.1190/tle44020123.1 DOI]) 
 
 - *Data-driven modelling of fully nonlinear wave loads on offshore wind-turbine monopiles at prototype scale*, \n
     W. Tan, P. Ren, D. Cao, H. Liang, H. Chen, \n
     /Marine Structures/, 2025. 
-    ([https://www.sciencedirect.com/science/article/pii/S095183392400203X DOI]) \[{{<font color="PaleVioletRed">ML + Time series</font>}}\]
+    ([https://www.sciencedirect.com/science/article/pii/S095183392400203X DOI]) 
 
 - *SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning*, \n
     P. Ren\*, N. B. Erichson\*, J. Guo, S. Subramanian, O. San, Z. Lukic, and M. W. Mahoney, \n
     /Data-centric Machine Learning Research/, 2025.
-    ([https://arxiv.org/abs/2306.14070.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs + Climate</font>}}\]
+    ([https://arxiv.org/abs/2306.14070.pdf arXiv]) 
 
 - *FT-SMNet: Fourier transform sparse matrix network for structural health monitoring time series data forecasting*, \n
     W. Wang\*, P. Ren\*, Y. Liu, L. Meng, H. Liu, H. Liu, H. Sun, \n
     /Mechanical Systems and Signal Processing/, 2025. 
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327024010951 DOI]) \[{{<font color="PaleVioletRed">ML + Time series</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327024010951 DOI]) 
 
 - *Forecasting High-dimensional Spatio-Temporal Systems from Sparse Measurements*, \n
     J. Song\*, Z. Song\*, P. Ren, N. B. Erichson, M. Mahoney, and X. S. Li, \n
     /Machine Learning: Science and Technology/, 2024. 
-    ([https://iopscience.iop.org/article/10.1088/2632-2153/ad9883/pdf DOI]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://iopscience.iop.org/article/10.1088/2632-2153/ad9883/pdf DOI]) 
 
 - *An Unsupervised Machine Learning Approach for Ground Motion Clustering and Selection*, \n
     R. B. Bond, P. Ren, J. F. Hajjar, and H. Sun, \n
     /Earthquake Engineering \& Structural Dynamics/, 2024. 
-    ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://onlinelibrary.wiley.com/doi/10.1002/eqe.4062?af=R DOI]) ([https://arxiv.org/abs/2212.03188 arXiv]) 
 
 - *SeismicNet: Physics-informed Neural Networks for Seismic Wave Modeling in Semi-infinite Domain*, \n
     P. Ren\*, C. Rao\*, H. Sun, and Y. Liu, \n
     /Computer Physics Communications/, 2023. 
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + Earthquakes</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv]) 
 
 - *PhySR: Physics-informed Deep Super-resolution for Spatiotemporal Data*, \n   
     P. Ren, C. Rao, Y. Liu, Z. Ma, Q. Wang, J. X. Wang, and H. Sun, \n
     /Journal of Computational Physics/, 2023.
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv]) 
 
 - *Encoding Physics to Learn Reaction–Diffusion Processes*, \n
     C. Rao\*, P. Ren\*, Q. Wang, O. Buyukozturk, H. Sun, and Y. Liu, \n 
     /Nature Machine Intelligence/, 2023.
-    ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv]) 
 
 - *Clustering and Selection of Hurricane Wind Records Using Autoencoder and k-Means Algorithm*, \n
     X. Du, J. F. Hajjar, R. B. Bond, P. Ren, and H. Sun, \n
     /Journal of Structural Engineering/, 2023. 
-    ([https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12110 DOI]) \[{{<font color="PaleVioletRed">ML + Hurricanes</font>}}\]
+    ([https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12110 DOI]) 
 
 - *Autoregressive Matrix Factorization for Imputation and Forecasting of Spatiotemporal Structural Monitoring Time Series*, \n
     P. Zhang\*, P. Ren\*, Y. Liu, and H. Sun, \n
     /Mechanical Systems and Signal Processing/, 2022.
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021010372 DOI]) \[{{<font color="PaleVioletRed">ML + SHM</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021010372 DOI])
 
 - *PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs*, \n
     P. Ren, C. Rao, Y. Liu, J. X. Wang, and H. Sun, \n
     /Computer Methods in Applied Mechanics and Engineering/, 2022. 
-    ([https://www.sciencedirect.com/science/article/abs/pii/S0045782521006514 DOI]) ([https://arxiv.org/abs/2106.14103.pdf arXiv]) \[{{<font color="PaleVioletRed">ML + PDEs</font>}}\]
+    ([https://www.sciencedirect.com/science/article/abs/pii/S0045782521006514 DOI]) ([https://arxiv.org/abs/2106.14103.pdf arXiv]) 
 
 - *Incremental Bayesian Matrix\/Tensor Learning for Structural Monitoring Data Imputation and Response Forecasting*, \n
     P. Ren, X. Chen, L. Sun, and H. Sun, \n
-    /Mechanical Systems and Signal Processing/, 2022. ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021001291 DOI]) \[{{<font color="PaleVioletRed">ML + SHM</font>}}\]
+    /Mechanical Systems and Signal Processing/, 2022. ([https://www.sciencedirect.com/science/article/abs/pii/S0888327021001291 DOI])
 
 - *Structural health monitoring of a high-speed railway bridge: five years review and lessons learned*, \n
     Y. Ding, P. Ren, H. Zhao, and C. Miao, \n
-    /Smart Structures and Systems/, 2018. \[{{<font color="PaleVioletRed">ML + SHM</font>}}\]
+    /Smart Structures and Systems/, 2018.
 
 
 
