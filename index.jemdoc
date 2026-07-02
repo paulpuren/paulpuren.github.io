@@ -1,34 +1,142 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
-== Pu Ren
+# jemdoc: nofooter, title{Pu Ren}
 
 ~~~
-{}{img_left}{pics/headshot_recent.jpg}{alt text}{200px}{200px}
-I am a Postdoc Fellow in AI & Learning Systems Group at [https://www.lbl.gov/ Lawrence Berkeley National Lab], where I am working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney]. I received my Ph.D. at Northeastern University in July 2022, where I worked with Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [http://sites.nd.edu/jianxun-wang/ Jian-Xun Wang].
-
-
-I am broadly interested in AI methods for scientific problems. I work on both the methodology and application sides of scientific machine learning. Specifically, my research focuses on soft- and hard-constrained machine learning, generative modeling, and large pretrained models, with applications spanning fluid dynamics, climate science, geophysics, earthquake engineering, etc.
-
-More recently, I have been exploring weight-space analysis and its role in scientific machine learning, particularly through loss landscape analyses of constrained models and eigen-spectral analyses of large pretrained models. My ongoing projects aim to establish theoretical and computational foundations that connect these analyses to the generalization and transferability of scientific foundation models.
-
-
-Email: pren AT lbl DOT gov
+{}{raw}
+<!-- Header: edit name, appointment, affiliations, links, and portrait here. -->
+<header class="site-header">
+  <div class="intro">
+    <h1>Pu Ren</h1>
+    <p class="role">AI Researcher</p>
+    <p class="affiliation">
+      Lawrence Berkeley National Laboratory<br />
+      International Computer Science Institute
+    </p>
+    <p class="email">Email: ren DOT pu AT northeastern DOT edu</p>
+    <p class="header-links">
+      [<a href="https://scholar.google.com/citations?user=FiuAyGwAAAAJ&amp;hl=en">Google Scholar</a>]
+      [<a href="https://github.com/paulpuren">GitHub</a>]
+    </p>
+  </div>
+  <figure class="portrait">
+    <img src="pics/headshot_recent.jpg" alt="Portrait of Pu Ren" />
+  </figure>
+</header>
 ~~~
 
-== Recent News
-- \[03\/2026\] Our CGM-GM is published online by */Nature Communications/*. We are also building a broader CGM family for geophysical applications: [https://arxiv.org/abs/2512.19909 CGM-FAS] and [https://www.stat.berkeley.edu/~mmahoney/pubs/Advancing_Broadband_Seismic_Wavefield_1.pdf CGM-Wave].
-- \[09\/2025\] Our CGM work is featured at [https://central.scec.org/publication/14399 SCEC2025 Plenary Talk].
-- \[07\/2024\] We are organizing a workshop at NeurIPS 2024 on Foundation Models for Science. 
-- \[05\/2024\] Our work on data-efficient pretraining and in-context learning for SciML has been accepted by /NeurIPS 2024/. ([https://arxiv.org/abs/2402.15734.pdf arXiv])
-- \[01\/2024\] Our work on generative models for time series data has been accepted by /ICLR 2024/. ([https://arxiv.org/abs/2310.02619.pdf arXiv])
-- \[11\/2023\] Our work on physics-informed deep learning for seismic wave propagation has been published in the /Computer Physics Communications/. ([https://www.sciencedirect.com/science/article/abs/pii/S0010465523003557 DOI]) ([https://arxiv.org/pdf/2210.14044.pdf arXiv])
-- \[08\/2023\] Our work on physics-informed super-resolution for spatiotemporal data has been published in the /Journal of Computational Physics/. ([https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338 DOI]) ([https://arxiv.org/abs/2208.01462.pdf arXiv])
-- \[06\/2023\] Our work *SuperBench* is online now. We build a super-resolution benchmark for scientific machine learning! ([https://arxiv.org/abs/2306.14070.pdf arXiv])
-- \[06\/2023\] Our work on encoding physics to learn reaction-diffusion processes has been accepted by */Nature Machine Intelligence/*. ([https://www.nature.com/articles/s42256-023-00685-7 DOI]) ([https://arxiv.org/abs/2106.04781.pdf arXiv])
+== Research
+
+My research aims to build principled and practical AI systems for science and engineering. I study AI models from three complementary perspectives: developing methods with appropriate inductive biases, empirically understanding model behavior, and applying these models to real-world scientific and engineering problems. My current research focuses on three directions.
+
+- *Efficient and scalable neural physics simulators*: developing neural PDE solvers, generative models, and scientific foundation models that incorporate physical structure for efficient simulation, prediction, and scientific discovery.
+
+- *Weight-space analysis of AI models*: empirically studying how physical priors, model geometry, and learned representations shape the generalization, transferability, and reliability of SciML models and LLMs.
+
+- *Agentic AI for science and physical AI*: building AI systems that can reason about physical systems, interact with real-world environments, design experiments, diagnose failures, and support auto-research and auto-engineering.
+
+More info about me: I was a postdoc working with Prof. [https://www.stat.berkeley.edu/~mmahoney/ Michael Mahoney] at Lawrence Berkeley National Lab. I received my Ph.D. from Northeastern University, where I was advised by Prof. [https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en/ Hao Sun] and Prof. [https://sites.google.com/view/uirlab/ Ryan Wang]. I was also fortunate to collaborate with Prof. [https://coe.northeastern.edu/people/hajjar-jerome/ Jerome F. Hajjar], Prof. [https://scholar.google.com/citations?user=34upg6YAAAAJ&hl=en/ Yang Liu], and Prof. [https://www.duffield.cornell.edu/people/jian-xun-wang/ Jian-Xun Wang].
+
+
+== News
+
+- \[June 2026\] [https://www.tensor-mesh.com/ TensorMesh] is now online. TensorMesh is a fast, differentiable, ans user-friendly finite element library for PyTorch. It works for general scientific computing tasks, including physics-constrained machine learning, differentiable simulation, inverse problems, etc. 
+- \[May 2026\] One paper has been accepted by KDD 2026 as an {{<span class="highlight-red">Oral</span>}} presentation.
+- \[Apr 2026\] Three papers have been accepted by ICML 2026. [https://openreview.net/forum?id=4lAS8tI23u&referrer=%5Bthe%20profile%20of%20Xiaotian%20Liu%5D(%2Fprofile%3Fid%3D~Xiaotian_Liu2) IRNO] has been selected as a {{<span class="highlight-red">Spotlight</span>}}.
+- \[Mar 2026\] Our [https://www.nature.com/articles/s41467-026-70719-2 CGM-GM] is published online by /{{<span class="highlight-red">Nature Communications</span>}}/. We are also building a broader CGM family for geophysical applications: [https://arxiv.org/abs/2512.19909 CGM-FAS] and [https://www.stat.berkeley.edu/~mmahoney/pubs/Advancing_Broadband_Seismic_Wavefield_1.pdf CGM-Wave].
+- \[Sep 2025\] Our CGM work is featured at [https://central.scec.org/publication/14399 SCEC2025 Plenary Talk].
+- \[Apr 2025\] I will be visiting UC Irvine to give a talk about our recent work on AI-enabled scientific modeling. 
+- \[Mar 2025\] I will be visiting Rice University to give a talk about our recent work. Thanks for [https://profiles.rice.edu/faculty/hengrui-luo Hengrui]'s invitation! 
+- \[July 2024\] I will co-organize a workshop at NeurIPS 2024 on Foundation Models for Science. 
+- \[May 2024\] Our work on data-efficient pretraining and in-context learning for SciML has been accepted by NeurIPS 2024.
+- \[Jan 2024\] Our work on generative models for time series data has been accepted by ICLR 2024.
+- \[June 2023\] Our work on physics-encoded learning has been accepted by /{{<span class="highlight-red">Nature Machine Intelligence</span>}}/.
+
+
+
+== Selected Publications
+
+For more of my research, please see the [publications.html full publications] page.
+
+- *Spectral Signatures of Large Language Models*, \n
+    Z. Zhang\*, I. V. Prasad\*, Y. Hu, Z. Liu, H. Luo, P. Ren\#, and Y. Yang, \n
+    /The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, {{<span class="highlight-red">Oral</span>}}, 2026.
+
+
+- *Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation*, \n
+    X. Liu, S. Shang, X. Wang, P. Ren, and Y. Yang, \n
+    /International Conference on Machine Learning (ICML)/, {{<span class="highlight-red">Spotlight</span>}}, 2026.
+    \[[https://arxiv.org/abs/2605.24041 arXiv]\] 
+    \[[https://xiaotianliu-dartmouth.github.io/IRNO_ICML_26_Spotlight/ Blog]\]
+    \[[https://github.com/xiaotianliu-dartmouth/Iterative_Refinement_Neural_Operator/ Code]\]
+    \[[https://xiaotianliu-dartmouth.github.io/IRNO_ICML_26_Spotlight/static/pdfs/IRNO_slides.pdf Slides]\]
+
+
+- *Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization*, \n
+    Y. Wang\*, Y. Hu\*, X. Zhong\*, X. Wang\*, H. Lu, T. Pang, M. W. Mahoney, Y. Yan, P. Ren\#, and Y. Yang\#, \n
+    /International Conference on Machine Learning (ICML)/, 2026.
+    \[[https://arxiv.org/abs/2605.29153 arXiv]\]
+    \[[https://github.com/leastima/sciml_multi_regime Code]\]
+
+
+- *Learning earthquake ground motions via conditional generative modeling*, \n
+    P. Ren, R. Nakata, M. Lacour, I. Naiman, N. Nakata, J. Song, Z. Bi, O. A. Malik, D. Morozov, O. Azencot, N. B. Erichson, and M. W. Mahoney, \n
+    /{{<span class="highlight-red">Nature Communications</span>}}/, 2026.
+    \[[https://www.nature.com/articles/s41467-026-70719-2 DOI]\]
+    \[[https://arxiv.org/abs/2407.15089.pdf arXiv]\]
+    \[[https://github.com/paulpuren/cgm-gm Code]\]
+
+
+- *Model Balancing Helps Low-data Training and Fine-tuning*, \n
+    Z. Liu\*, Y. Hu\*, T. Pang, Y. Zhou, P. Ren, and Y. Yang, \n
+    /Empirical Methods in Natural Language Processing (EMNLP)/, {{<span class="highlight-red">Oral</span>}}, 2024.
+    \[[https://aclanthology.org/2024.emnlp-main.78.pdf DOI]\]
+    \[[https://arxiv.org/pdf/2410.12178.pdf arXiv]\]
+    \[[https://github.com/zihanghliu/modelbalancing Code]\] 
+
+
+- *Encoding Physics to Learn Reaction–Diffusion Processes*, \n
+    C. Rao\*, P. Ren\*, Q. Wang, O. Buyukozturk, H. Sun, and Y. Liu, \n 
+    /{{<span class="highlight-red">Nature Machine Intelligence</span>}}/, 2023.
+    \[[https://www.nature.com/articles/s42256-023-00685-7 DOI]\]
+    \[[https://arxiv.org/abs/2106.04781.pdf arXiv]\] 
+    \[[https://github.com/isds-neu/PeRCNN Code]\]
+
+
+- *PhyCRNet: Physics-informed Convolutional-Recurrent Network for Solving Spatiotemporal PDEs*, \n
+    P. Ren, C. Rao, Y. Liu, J. X. Wang, and H. Sun, \n
+    /Computer Methods in Applied Mechanics and Engineering/, 2022. 
+    \[[https://www.sciencedirect.com/science/article/abs/pii/S0045782521006514 DOI]\] 
+    \[[https://arxiv.org/abs/2106.14103.pdf arXiv]\] 
+    \[[https://github.com/paulpuren/PhyCRNet Code]\]
 
 
 == Selected Awards
-- \[05/2021\] Second Place of 2021 EMI Dynamics Committee Student Paper Competition ([https://www.asce.org/communities/institutes-and-technical-groups/engineering-mechanics-institute/news/emi-2021-student-competition-winners Link])
-- \[05/2020\] Third Place of 2020 EMI SHM&C Committee Student Paper Competition ([https://www.asce.org/-/media/asce-images-and-files/communities/institutes-and-technical-groups/engineering-mechanics/documents/2020-emi-annual-report.pdf Link])
-- \[09/2019\] Vilas Mujumdar Fellowship
-- \[10/2018\] China National Scholarship
-- \[04/2015\] Finalist of Mathematical Contest in Modeling (top 0.5\%)
+- \[May 2021\] Second Place of 2021 EMI Dynamics Committee Student Paper Competition
+- \[May 2020\] Third Place of 2020 EMI SHM&C Committee Student Paper Competition
+- \[Sep 2019\] Vilas Mujumdar Fellowship
+- \[Oct 2018\] China National Scholarship
+- \[Apr 2015\] Finalist of Mathematical Contest in Modeling (top 0.5\%)
+
+
+== Invited Talks
+- \[Apr 2025\] Baking Physics into AI for Computational Modeling, /UC Irvine/.
+- \[Mar 2025\] Learning Dynamics from Sparse Data, /Rice University/.
+- \[Feb 2025\] Embedding Physics into Deep Learning for Spatiotemporal Systems, /Zhongguancun Academy/.
+- \[Oct 2024\] Generative AI for Earthquake Simulations, /Berkeley Lab AI for Science Summit/.
+- \[Oct 2023\] Learning Dynamics from Sparse Data, /Lawrence Berkeley National Lab/.
+- \[Aug 2023\] Encoding Physics to Learn Reaction-Diffusion Processes, /Luoyi Science/.
+- \[June 2022\] Embedding Physics into Deep Learning for Spatiotemporal Systems, /Lawrence Berkeley National Lab/.
+- \[Mar 2022\] Embedding Physics into Deep Learning for Spatiotemporal Systems, /Argonne National Lab/.
+- \[Oct 2020\] Physics-Reinforced Deep Learning for Structural Metamodeling, /Northeastern University/.
+- \[Mar 2020\] Bayesian Tensor Learning for Structural Monitoring Data Imputation and Response Forecasting, /Northeastern University/.
+
+
+== Services
+
+- Area Chair/Reviewer for AI Conferences: ICML, NeurIPS, ICLR, IJCAI, AAAI, AISTATS, NLDL, etc.
+
+- Reviewer for Journals: /Nature Communications/, /Journal of Machine Learning Research/, /SIAM Review/, /SMAI Journal of Computational Mathematics/, /Computer Methods in Applied Mechanics and Engineering/, /IEEE Transactions on Neural Networks and Learning Systems/, /IEEE Transactions on Geoscience and Remote Sensing/, /Mechanical Systems and Signal Processing/, and many others. 
+
+== Teaching
+    - \[Sep 2025 - May 2026\], Capstone Project, /UC Berkeley/.
+    - \[Sep 2022 - May 2023\], Capstone Project, /UC Berkeley/.
+    - \[Sep 2021 - Dec 2021\], Structural Dynamics, /Northeastern University/.
