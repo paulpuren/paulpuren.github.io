@@ -2,6 +2,49 @@
 
 ~~~
 {}{raw}
+<style>
+  body {
+    margin: 0;
+    padding: 32px 34px;
+    background: #eeeeee;
+  }
+  #layout-content {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 42px 44px 50px;
+    background: #ffffff;
+  }
+  .site-header {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 200px;
+    gap: 42px;
+    align-items: start;
+  }
+  .portrait {
+    margin: 0;
+    text-align: right;
+  }
+  .portrait img {
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+  }
+  @media (max-width: 760px) {
+    body {
+      padding: 0;
+    }
+    #layout-content {
+      padding: 26px 18px 34px;
+    }
+    .site-header {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+    .portrait {
+      text-align: left;
+    }
+  }
+</style>
 <!-- Header: edit name, appointment, affiliations, links, and portrait here. -->
 <header class="site-header">
   <div class="intro">
@@ -18,7 +61,7 @@
     </p>
   </div>
   <figure class="portrait">
-    <img src="pics/headshot_recent.jpg" alt="Portrait of Pu Ren" />
+    <img src="pics/headshot_recent.jpg" alt="Portrait of Pu Ren" width="200" height="200" style="width:200px;max-width:100%;height:auto;" />
   </figure>
 </header>
 ~~~
