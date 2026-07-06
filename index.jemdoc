@@ -106,7 +106,7 @@ More info about me: I was a postdoc working with Prof. [https://www.stat.berkele
 
 == News
 
-- \[June 2026\] [https://www.tensor-mesh.com/ TensorMesh] is now online. TensorMesh is a fast, differentiable, ans user-friendly finite element library for PyTorch. It works for general scientific computing tasks, including physics-constrained machine learning, differentiable simulation, inverse problems, etc. 
+- \[June 2026\] [https://www.tensor-mesh.com/ TensorMesh] is now online. TensorMesh is a fast, differentiable, and user-friendly finite element library for PyTorch. It works for general scientific computing tasks, including physics-constrained machine learning, differentiable simulation, inverse problems, etc. 
 - \[May 2026\] One paper has been accepted by KDD 2026 as an {{<span class="highlight-red">Oral</span>}} presentation.
 - \[Apr 2026\] Three papers have been accepted by ICML 2026. [https://openreview.net/forum?id=4lAS8tI23u&referrer=%5Bthe%20profile%20of%20Xiaotian%20Liu%5D(%2Fprofile%3Fid%3D~Xiaotian_Liu2) IRNO] has been selected as a {{<span class="highlight-red">Spotlight</span>}}.
 - \[Mar 2026\] Our [https://www.nature.com/articles/s41467-026-70719-2 CGM-GM] is published online by /{{<span class="highlight-red">Nature Communications</span>}}/. We are also building a broader CGM family for geophysical applications: [https://arxiv.org/abs/2512.19909 CGM-FAS] and [https://www.stat.berkeley.edu/~mmahoney/pubs/Advancing_Broadband_Seismic_Wavefield_1.pdf CGM-Wave].
