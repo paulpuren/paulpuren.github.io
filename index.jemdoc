@@ -127,7 +127,8 @@ For more of my research, please see the [publications.html full publications] pa
 - *Spectral Signatures of Large Language Models*, \n
     Z. Zhang\*, I. V. Prasad\*, Y. Hu, Z. Liu, H. Luo, P. Ren\#, and Y. Yang, \n
     /The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, {{<span class="highlight-red">Oral</span>}}, 2026.
-
+    \[[https://arxiv.org/pdf/2607.03377 arXiv]\]
+    \[[https://github.com/Ingrid-505/Spectral_Signature Code]\]
 
 - *Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation*, \n
     X. Liu, S. Shang, X. Wang, P. Ren, and Y. Yang, \n
